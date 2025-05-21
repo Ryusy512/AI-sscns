@@ -263,6 +263,7 @@
     font-size: 1em;
     border-radius: 5px;
     overflow: hidden; 
+    border: 1px solid #ccc;
 }
 
 /* 반응형 조절 */
