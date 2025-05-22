@@ -88,9 +88,10 @@
 
 .cert-item {
     text-align: center;
-    /* background-color: var(--text-light); /* 배경색 추가 가능 */
-    /* padding: 15px; */
-    /* border-radius: 5px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .cert-item img {
